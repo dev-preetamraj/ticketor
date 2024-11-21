@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Arijit Singh | MTV India Tour",
+    "description": "Arijit Singh is an Indian singer and music composer. He sings predominantly in Hindi and Bengali, and is known for his melodious voice and powerful vocals.",
+    "price": 1000,
+    "totalTickets": 100,
+    "location": "Mumbai, India",
+    "eventDate": 1723845600000,
+    "userId": "user_2jZ45678901234567890123"
+  },
+  {
+    "name": "Sunidhi Chauhan Live in Concert",
+    "description": "Experience the powerhouse performer Sunidhi Chauhan live as she brings her energetic vocals and chart-topping hits to the stage.",
+    "price": 1500,
+    "totalTickets": 150,
+    "location": "Delhi, India",
+    "eventDate": 1724277600000,
+    "userId": "user_2jZ45678901234567890124"
+  },
+  {
+    "name": "Sonu Nigam's Musical Night",
+    "description": "Join the versatile singer Sonu Nigam for an enchanting evening filled with soulful melodies and timeless classics.",
+    "price": 2000,
+    "totalTickets": 200,
+    "location": "Bangalore, India",
+    "eventDate": 1724623200000,
+    "userId": "user_2jZ45678901234567890125"
+  },
+  {
+    "name": "Shreya Ghoshal | Melodious Evening",
+    "description": "Witness the mesmerizing voice of Shreya Ghoshal as she performs her greatest hits in an intimate concert setting.",
+    "price": 1800,
+    "totalTickets": 175,
+    "location": "Kolkata, India",
+    "eventDate": 1725055200000,
+    "userId": "user_2jZ45678901234567890126"
+  },
+  {
+    "name": "Kumar Sanu Retro Night",
+    "description": "Relive the golden era of 90s Bollywood music with the legendary Kumar Sanu performing his iconic songs.",
+    "price": 1200,
+    "totalTickets": 120,
+    "location": "Hyderabad, India",
+    "eventDate": 1725314400000,
+    "userId": "user_2jZ45678901234567890127"
+  },
+  {
+    "name": "Alka Yagnik Live Concert",
+    "description": "Join the melodious Alka Yagnik for an evening of romantic ballads and memorable Bollywood hits.",
+    "price": 1300,
+    "totalTickets": 130,
+    "location": "Chennai, India",
+    "eventDate": 1725746400000,
+    "userId": "user_2jZ45678901234567890128"
+  },
+  {
+    "name": "KK's Rock Symphony",
+    "description": "Experience the magic of KK's versatile voice as he performs his rock anthems and soulful numbers.",
+    "price": 1600,
+    "totalTickets": 160,
+    "location": "Pune, India",
+    "eventDate": 1726178400000,
+    "userId": "user_2jZ45678901234567890129"
+  },
+  {
+    "name": "Mohit Chauhan Unplugged",
+    "description": "An acoustic evening with Mohit Chauhan featuring his popular songs in intimate, stripped-down arrangements.",
+    "price": 1400,
+    "totalTickets": 140,
+    "location": "Ahmedabad, India",
+    "eventDate": 1726524000000,
+    "userId": "user_2jZ45678901234567890130"
+  },
+  {
+    "name": "Neha Kakkar's Pop Extravaganza",
+    "description": "Join the sensation Neha Kakkar for a high-energy performance of her latest hits and party anthems.",
+    "price": 1700,
+    "totalTickets": 170,
+    "location": "Jaipur, India",
+    "eventDate": 1726956000000,
+    "userId": "user_2jZ45678901234567890131"
+  },
+  {
+    "name": "Udit Narayan Classical Night",
+    "description": "A classical evening with the legendary Udit Narayan, featuring his timeless Bollywood classics.",
+    "price": 1900,
+    "totalTickets": 190,
+    "location": "Lucknow, India",
+    "eventDate": 1727301600000,
+    "userId": "user_2jZ45678901234567890132"
+  }
+]
